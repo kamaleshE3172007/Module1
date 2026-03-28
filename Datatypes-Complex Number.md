@@ -13,7 +13,9 @@ To write a Python program that reads two integers, creates a complex number usin
 
 ## 💻 Program
 Add Code Here
+<img width="159" height="153" alt="image" src="https://github.com/user-attachments/assets/5a03b46c-b2d9-4763-8795-7012c36a1661" />
 
 ## Output
+![Uploading image.png…]()
 
 ## Result
