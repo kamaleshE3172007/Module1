@@ -16,9 +16,11 @@ To write a Python program that evaluates and prints the results of boolean and a
 
 ## 💻 Program
 Add Code here
-<img width="111" height="56" alt="image" src="https://github.com/user-attachments/assets/ffc835f2-e6bb-490d-ba74-c8a586b4283b" />
+<img width="230" height="226" alt="image" src="https://github.com/user-attachments/assets/cbd62756-0f26-4690-acd4-5bf9b71921af" />
+
 
 ## Output
-<img width="289" height="174" alt="image" src="https://github.com/user-attachments/assets/efbba3b9-349a-4e68-af9b-3fbae1f16b7b" />
+<img width="484" height="254" alt="image" src="https://github.com/user-attachments/assets/9e9dfcf0-3cbe-49d8-8c60-62fb09504188" />
+
 
 ## Result
