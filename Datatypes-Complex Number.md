@@ -16,6 +16,7 @@ Add Code Here
 <img width="159" height="153" alt="image" src="https://github.com/user-attachments/assets/5a03b46c-b2d9-4763-8795-7012c36a1661" />
 
 ## Output
-![Uploading image.png…]()
+<img width="924" height="730" alt="image" src="https://github.com/user-attachments/assets/eb12d874-fe9a-46ae-8ff4-75c64bf90c25" />
+
 
 ## Result
